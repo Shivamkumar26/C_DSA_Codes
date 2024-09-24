@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0002-add-two-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0328-odd-even-linked-list) |
 ## Hash Table
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

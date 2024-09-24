@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0002-add-two-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2481-strictly-palindromic-number) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0328-odd-even-linked-list) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0002-add-two-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->

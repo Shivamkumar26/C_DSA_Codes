@@ -30,7 +30,12 @@ char** findRepeatedDnaSequences(char* s, int* n) {
         if(arr[idx] == 2) {
             // ans mei add
             res[resLen] = (char*)malloc(sizeof(char) * 11);  
-            strncpy(res[resLen], &s[i], 10);
+            // strncpy(res[resLen], &s[i], 10);
+
+            for(int j=i; j<10+i; j++) {
+                res[resLen][j-i] = s[j];
+            }
+
             res[resLen][10] = '\0';
 
             resLen++;

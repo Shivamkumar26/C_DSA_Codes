@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0011-container-with-most-water) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Greedy
 |  |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

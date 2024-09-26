@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0038-count-and-say) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0002-add-two-numbers) |
+| [0445-add-two-numbers-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0445-add-two-numbers-ii) |
 | [2481-strictly-palindromic-number](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0328-odd-even-linked-list](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0445-add-two-numbers-ii) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Table
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->

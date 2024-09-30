@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0328-odd-even-linked-list](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0445-add-two-numbers-ii) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Table
 |  |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0445-add-two-numbers-ii) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->

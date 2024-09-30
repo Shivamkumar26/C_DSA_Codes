@@ -23,24 +23,23 @@ char* reorderSpaces(char* st) {
     int extraSpace = ((words == 1) ? spaces : spaces % (words-1));
 
     while(idx < n) {
-        // if(idx == 0 || st[i] == ' ') { //first word
+        
+        //first word
+        while(i < n && st[i] == ' ') i++; //initial space
+        while(i < n && st[i] != ' ') { // adding  word
+            ans[idx++] = st[i++];
+        }
+        //spaces after 
+        words--;
+        if(words) {
+            for(int k = 0; k < spaceBetween; k ++)
+                ans[idx++] = ' ';
+        }
 
-            while(i < n && st[i] == ' ') i++; //initial space
-            while(i < n && st[i] != ' ') { // adding  word
-                ans[idx++] = st[i++];
+        if(!words) {
+            for(int k = 0; k < extraSpace; k ++)
+                ans[idx++] = ' ';
             }
-            //spaces after 
-            words--;
-            if(words) {
-                for(int k = 0; k < spaceBetween; k ++)
-                    ans[idx++] = ' ';
-            }
-
-            if(!words) {
-                for(int k = 0; k < extraSpace; k ++)
-                    ans[idx++] = ' ';
-            }
-        // }
     }
     ans[n] = '\0';
     return ans;

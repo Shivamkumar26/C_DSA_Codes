@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0015-3sum) |
 | [2481-strictly-palindromic-number](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

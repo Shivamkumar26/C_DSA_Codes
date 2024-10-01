@@ -3,48 +3,41 @@
  * The sizes of the arrays are returned as *returnColumnSizes array.
  * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
  */
-
 int cmp(const void* a, const void* b) {
-    return *(int*)a - *(int*)b;
+    return *(int*)a- *(int*)b;
 }
-int** threeSum(int* nums, int n, int* returnSize, int** returnColumnSizes) {
-    qsort(nums, n, sizeof(int), cmp);
 
-    int** res = (int**)malloc(sizeof(int*)*(100000)); 
-    *returnSize = 0;
+int** threeSum(int* nums, int numsSize, int* n, int** m) {
 
-    for(int i=0; i<n-2; i++) {
+    qsort(nums, numsSize, sizeof(int), cmp);
+    int** res = (int**)malloc(sizeof(int*)*3001*3001);
+    *n = 0;
+
+    for(int i = 0; i < numsSize-2; i++) {
         if(i > 0 && nums[i] == nums[i-1]) continue;
 
-        int n1 = nums[i];
-        int rem = 0 - n1;
-        
-        int l = i+1, r = n-1;
+        int l = i + 1, r = numsSize - 1;
         while(l < r) {
-            if(nums[l] + nums[r] == rem) {
-                res[*returnSize] = (int*)malloc(sizeof(int)*3);
-                res[*returnSize][0] = n1;
-                res[*returnSize][1] = nums[l];
-                res[*returnSize][2] = nums[r];
-                (*returnSize)++;
+            int sum = nums[i] + nums[l] + nums[r];
+            if(sum == 0) {
+                res[*n] = (int*)malloc(sizeof(int)*3);
+                res[*n][0] = nums[i];
+                res[*n][1] = nums[l];
+                res[*n][2] = nums[r];
+                (*n)++;
 
                 while(l < r && nums[l] == nums[l+1]) l++;
-                while(l < r && nums[r] == nums[r-1]) r--;
+                while(l < r && nums[r] == nums[r-1]) r--; 
                 l++;
                 r--;
             }
-            else if(rem > nums[l] + nums[r]) l++;
+            else if(sum < 0) l++;
             else r--;
         }
     }
-    *returnColumnSizes = (int*)malloc(sizeof(int)*(*returnSize));
-    for(int i=0; i< *returnSize; i++) {
-        (*returnColumnSizes)[i] = 3;
+    *m = (int*)malloc(sizeof(int)*(*n));
+    for(int i=0; i<*n; i++){
+        (*m)[i] = 3;
     }
     return res;
 }
-/*
-
--4 -1 -1 0 1 2 
-
-*/

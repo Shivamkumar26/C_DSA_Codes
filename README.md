@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0445-add-two-numbers-ii) |
 | [2481-strictly-palindromic-number](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2481-strictly-palindromic-number) |

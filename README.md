@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0445-add-two-numbers-ii) |
 | [2481-strictly-palindromic-number](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2481-strictly-palindromic-number) |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0036-valid-sudoku) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0038-count-and-say) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
 | [1714-rearrange-spaces-between-words](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1714-rearrange-spaces-between-words) |

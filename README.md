@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |

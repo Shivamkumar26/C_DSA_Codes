@@ -28,5 +28,7 @@ int rob(int* nums, int n) {
     int res2 = solve(nums2, 0, n-1, dp2);
     free(dp);
     free(dp2);
+    free(nums1);
+    free(nums2);
     return res2 > res ? res2 : res;
 }

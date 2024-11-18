@@ -1,5 +1,5 @@
 class Solution {
-    void solve(string s, int l, int r, string& res) {
+    void solve(string& s, int l, int r, string& res) {
         if(l < 0 || l >= s.size() || r < 0 || r >= s.size() || s[l]!=s[r]) 
         return;
 

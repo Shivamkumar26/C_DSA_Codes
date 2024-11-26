@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0198-house-robber) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Rolling Hash
@@ -161,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

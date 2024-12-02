@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0189-rotate-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2481-strictly-palindromic-number](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1714-rearrange-spaces-between-words](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1714-rearrange-spaces-between-words) |
 ## Sliding Window
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->

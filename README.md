@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0213-house-robber-ii) |
+| [0907-koko-eating-bananas](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0907-koko-eating-bananas) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Greedy
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
+| [0907-koko-eating-bananas](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0907-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |

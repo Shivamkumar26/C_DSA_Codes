@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0189-rotate-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0198-house-robber) |

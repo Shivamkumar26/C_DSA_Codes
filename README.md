@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
 ## String
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0198-house-robber) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0079-word-search) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0079-word-search) |
 ## Trie
 |  |

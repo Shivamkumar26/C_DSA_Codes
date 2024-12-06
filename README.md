@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1714-rearrange-spaces-between-words](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1714-rearrange-spaces-between-words) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0198-house-robber) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0213-house-robber-ii) |
 ## Sorting
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -224,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

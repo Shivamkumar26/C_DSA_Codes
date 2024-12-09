@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0445-add-two-numbers-ii) |
 | [2050-count-good-numbers](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2050-count-good-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2481-strictly-palindromic-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2050-count-good-numbers) |
 ## Number Theory
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0231-power-of-two) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Rolling Hash
 |  |

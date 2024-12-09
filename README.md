@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0231-power-of-two) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Rolling Hash
 |  |

@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0213-house-robber-ii) |
+| [0485-max-consecutive-ones](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0907-koko-eating-bananas) |
 | [2232-adding-spaces-to-a-string](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2232-adding-spaces-to-a-string) |

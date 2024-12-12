@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0966-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1046-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [2232-adding-spaces-to-a-string](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
 |  |

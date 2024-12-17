@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0079-word-search) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0445-add-two-numbers-ii) |
 ## Simulation
 |  |

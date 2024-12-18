@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1370-count-number-of-nice-subarrays) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0213-house-robber-ii) |
 | [0485-max-consecutive-ones](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0966-binary-subarrays-with-sum) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0139-word-break) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

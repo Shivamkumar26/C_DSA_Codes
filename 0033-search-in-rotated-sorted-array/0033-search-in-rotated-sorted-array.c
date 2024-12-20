@@ -1,23 +1,29 @@
-int search(int* nums, int n, int target) {
-    int l = 0, r = n-1;
+int search(int* arr, int ele, int x) {
+    int low=0,high=ele-1;
 
-    while(l <= r) {
-        int mid = (l+r)/2;
-
-        if(nums[mid] == target) return mid;
-
-        //left part sorted
-        if(nums[l] <= nums[mid]) {
-            if(target >= nums[l] && target <= nums[mid]) {
-                r = mid-1;
-            }
-            else l = mid+1;
-        }
-        //right part sorted 
-        else {
-            if(target <= nums[r] && target >= nums[mid]) l = mid+1;
-            else r = mid-1;
-        }
-    }
-    return -1;
+	while(low<=high)
+	{
+		int mid=low+(high-low)/2;
+		
+		printf("low=%d mid=%d high=%d\n",low,mid,high);
+		if(arr[mid]==x)
+			return mid;
+		
+		if(arr[mid]>=arr[low])
+		{
+			if(arr[low]<=x && arr[mid]>x)
+				high=mid-1;
+			else
+				low=mid+1;
+		}
+		else
+		{
+			if(arr[high]>=x && arr[mid]<x)
+				low=mid+1;
+			else
+				high=mid-1;
+		}
+		
+	}
+	return -1;
 }

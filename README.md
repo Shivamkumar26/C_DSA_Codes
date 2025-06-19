@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0222-count-complete-tree-nodes) |
 | [0907-koko-eating-bananas](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -279,4 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0496-next-greater-element-i) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shivamkumar26/C_DSA_Codes/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
